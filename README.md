@@ -15,17 +15,17 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<a href="#">
-  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+<a href="https://stackoverflow.com/users/1868660/subodh-ghulaxe" target="_blank">
+  <img align="left" width="24px" src="https://raw.githubusercontent.com/subodhghulaxe/subodh.dev/main/assets/img/stackoverflow.svg"  />
 </a>
-<a href="#">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/subodhghulaxe" target="_blank">
+  <img align="left" width="26px" src="https://raw.githubusercontent.com/subodhghulaxe/subodh.dev/main/assets/img/twitter.svg" />
 </a>
-<a href="#">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+<a href="https://codepen.io/subodhghulaxe" target="_blank">
+  <img align="left" width="26px" src="https://raw.githubusercontent.com/subodhghulaxe/subodh.dev/main/assets/img/codepen.svg" />
 </a>
-<a href="#">
-  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+<a href="https://profiles.wordpress.org/subodhghulaxe/" target="_blank">
+  <img align="left" width="26px" src="https://raw.githubusercontent.com/subodhghulaxe/subodh.dev/main/assets/img/wordpress.svg" />
 </a>
 
 <br />
