@@ -33,7 +33,7 @@ Here are some ideas to get you started:
 ### About Me 🚀
 
 - 👨‍💻 I'm a Full Stack Developer
-- 👀 I’m interested in JavaScript, Java, React and Systems Design
+- 👀 I’m interested in JavaScript, React, Node.js, Java and Systems Design
 - 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on Machine Learning
 
