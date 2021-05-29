@@ -1,14 +1,5 @@
 ### Hi there 👋 I’m Subodh Ghulaxe
 
-- 👀 I’m interested in JavaScript, Java, React and Systems Design
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on Machine Learning
-
-
-<br />
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=subodhghulaxe.subodhghulaxe)
-
-
 <!--
 **subodhghulaxe/subodhghulaxe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -23,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 👀 I’m interested in JavaScript, Java, React and Systems Design
+- 🌱 I’m currently learning Java
+- 💞️ I’m looking to collaborate on Machine Learning
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=subodhghulaxe.subodhghulaxe)&nbsp;
+[![GitHub subodhghulaxe](https://img.shields.io/github/followers/subodhghulaxe?label=follow&style=social)](https://github.com/subodhghulaxe)
+
